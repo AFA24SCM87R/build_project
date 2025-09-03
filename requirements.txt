@@ -341,7 +341,7 @@ tokenizers==0.21.0
     # via transformers
 toml==0.10.2
     # via streamlit
-torch==2.5.1+cpu
+torch==2.5.1
     # via
     #   -r requirements.in
     #   accelerate
