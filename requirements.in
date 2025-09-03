@@ -1,0 +1,11 @@
+pandas
+numpy
+
+transformers[torch]
+sentence-transformers
+torch
+tensorboard
+
+streamlit
+watchdog
+
